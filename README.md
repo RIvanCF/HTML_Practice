@@ -15,4 +15,6 @@ Se introdujo el siguiente codigo
 </html>
 ```
 ## Resultado
-![image](https://user-images.githubusercontent.com/99302791/158552753-8c2fb940-c19e-4b6e-b721-0dbea1fb9152.png)
+Iniciaremos con anexar un titulo que esta visible en la pestaña del navegador 
+![image](https://user-images.githubusercontent.com/99302791/158553236-d4777786-17fd-40b4-a104-2fc9cdfe632a.png)
+
