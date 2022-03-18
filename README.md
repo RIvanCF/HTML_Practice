@@ -42,6 +42,19 @@ Lanzandonos el siguiente resultado al ejecutar el programa:
 ### Resultado
 ![image](https://user-images.githubusercontent.com/99302791/158933632-2c3a274a-aaec-4694-b5f3-c9aa3459a3dc.png)
 
+## Links 
+Para anexar un link que nos dirija a un sitio web, escribimos lo siguiente (aqui puse mi perfil de GitHub como ejemplo)
+Aqui el atributo <a></a> nos dirige al sitio dentro de la misma pagina o ventana de exploración 
+```
+<!--LINKS/ENLACES-->
+    <!--Este atributo sencillo permite que el link anexado cargue la pagina en la misma pestaña o ventana-->
+    <a href="https://github.com/RIvanCF">Link a mi perfil (Cargar en la misma página)</a> 
+```
+Si lo que queremos es que el enlace nos dirija a ete mismo sitio, pero haciendo uso de otra ventana de exploración, escribiremos lo siguiente: 
+```
+    <!--Este atributo "target" permite que el link anexado cargue en otra pagina o ventana de exploración-->
+    <br><a href="https://github.com/RIvanCF" target="blank">Link a mi perfil (abrir en otra pestaña)</a> 
+```
     
     
 
