@@ -32,4 +32,3 @@ Lanzandonos el siguiente resultado al ejecutar el programa:
 ![image](https://user-images.githubusercontent.com/99302791/158924264-168159b5-9e17-4c9d-812f-7947075feee1.png)
 
 
-
