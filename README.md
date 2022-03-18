@@ -32,12 +32,16 @@ Lanzandonos el siguiente resultado al ejecutar el programa:
 ![image](https://user-images.githubusercontent.com/99302791/158924264-168159b5-9e17-4c9d-812f-7947075feee1.png)
 
 ## Parrafos 
-``` <!--PARRAFOS-->
+``` 
+<!--PARRAFOS-->
     <p>Primer parrafo. Primer parrafo. Primer parrafo. Primer parrafo. Primer parrafo. Primer parrafo. 
        Primer parrafo. Primer parrafo. Primer parrafo. Primer parrafo. Primer parrafo. Primer parrafo. 
        Primer parrafo. Primer parrafo. Primer parrafo. Primer parrafo. <br> Salto de linea dentro del mismo parafo</p> 
     <p>Segundo parrafo </p> 
-    ```
+```
+## Resultado
+![image](https://user-images.githubusercontent.com/99302791/158933632-2c3a274a-aaec-4694-b5f3-c9aa3459a3dc.png)
+
     
     
 
