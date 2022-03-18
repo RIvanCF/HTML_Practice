@@ -31,4 +31,14 @@ Variamos el tamaño de la fuente (letra) con las siguientes etiquetas
 Lanzandonos el siguiente resultado al ejecutar el programa: 
 ![image](https://user-images.githubusercontent.com/99302791/158924264-168159b5-9e17-4c9d-812f-7947075feee1.png)
 
+## Parrafos 
+``` <!--PARRAFOS-->
+    <p>Primer parrafo. Primer parrafo. Primer parrafo. Primer parrafo. Primer parrafo. Primer parrafo. 
+       Primer parrafo. Primer parrafo. Primer parrafo. Primer parrafo. Primer parrafo. Primer parrafo. 
+       Primer parrafo. Primer parrafo. Primer parrafo. Primer parrafo. <br> Salto de linea dentro del mismo parafo</p> 
+    <p>Segundo parrafo </p> 
+    ```
+    
+    
+
 
