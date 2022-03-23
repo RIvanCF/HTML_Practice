@@ -1,0 +1,81 @@
+<!DOCTYPE html> 
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Practica No.2 LaunchX - Elementos Compuestos</title>
+    </head>
+<body>
+<h1>Practica 2 - Elementos Compuestos</h1>
+ <!-- Entradas / Inputs-->
+ <input type="text" id="Input1" name="Input1" value="Valor1"> <br><!--Value es para asignar un texto dentro de el cuadro-->
+ <label for="Input1">Ejemplo de un Input básico</label><br><br>
+
+ <!-- Etiquetas para Input-->
+ <h2>Input de texto</h2>
+ <label for="Correo">Input de correo</label><br>
+ <input type="email" id="Correo" name="Correo"><br><br>
+
+<label for="Numero">Input de número</label><br>
+<input type="number" id="numero" name="numero"><br><br>
+
+<label for="psw">Input de Password</label><br>
+<input type="password" id="psw" name="psw" minlength="8"><br><br><!--minlength: número de carácteres mínimos-->
+
+<label for="tel1">Input de número telefónico</label><br>
+<input type="tel" id="tel1" name="tel1" maxlength="10"><br><br><!--maxlength: número de carácteres máximos-->
+
+<label for="url1">Input de URL</label><br>
+<input type="url" id="url1" name="url1"><br><br>
+
+<h2>Input de selección multiple</h2>
+<input type="checkbox" id="proteina1" name="proteina1" value="Suadero"> <!--Checkbox: cuadro de selección-->
+<label for="proteina1">Tacos de suadero</label><br>
+
+<input type="checkbox" id="proteina2" name="proteina2" value="Pastor">
+<label for="proteina2">Tacos de pastor</label><br>
+
+<input type="checkbox" id="proteina3" name="proteina3" value="Tripa">
+<label for="proteina3">Tacos de tripa</label><br><br>
+
+<!--Etiqueta de color-->
+<h2>Color - Ejemplo</h2>
+<label for="color">Input de color</label><br>
+<input type="color" name="color1" id="color1"><br><br>
+
+<!--Fechas-->
+<h2>Fechas</h2>
+<label for="fecha1">Inputs de fechas</label><br>
+<input type="date" name="fecha1" id="fecha1"><br><br>
+<input type="datetime-local" name="fecha2" id="fecha2"><br><br>
+<input type="week" name="fecha3" id="fecha3"><br><br>
+<input type="time" name="fecha4" id="fecha4"><br><br>
+<input type="month" name="fecha5" id="fecha5"><br><br>
+
+<!--Inputs de tipo archivo. Subir archivos -->
+<h2>Archivos</h2>
+<label for="archivo1">Input de archivo</label>
+<input type="file" name="archivo1" id="archivo1"><br>
+<label for="archivo2">Input de archivo multiple</label>
+<input type="file" name="archivo2" id="archivo2" multiple>
+
+<!--Input de unica selección -->
+<h2>Input de una unica selección</h2>
+<input type="radio" name="fav_language" id="html" value="HTML">
+<label for="html">HTML</label><br>
+<input type="radio" name="fav_language" id="css" value="CSS">
+<label for="css">CSS</label><br>
+<input type="radio" name="fav_language" id="javascript" value="JAVASCRIPT">
+<label for="javascript">JAVASCRIPT</label><br><br>
+
+<!--Input volumen-->
+<h2>Input de control de volumen </h2>
+<label for="vol">Volumen (entre 0 y 50):</label><br>
+<input type="range" name="vol" id="vol" min="0" max="50"><br><br>
+
+<input type="reset"><br>
+<input type="submit"><br>
+<input type="button" name="boton9" id="boton9" value="Boton 9">
+</body>
+</html>
